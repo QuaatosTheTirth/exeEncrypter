@@ -9,3 +9,5 @@ Pre compiled release available under "Releases"
 
 
 Use it for whatever you want!
+
+--Im not responsible for dumb actions performed by you!
